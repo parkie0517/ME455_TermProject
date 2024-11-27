@@ -25,5 +25,6 @@ The folder should have the following structure:
        ├── segmentation.pth
        └── yolov7_cityscapes.pt
    ├── utils
+   ├── val_sanity.npy
    └── ME455_TP_2024_Student.ipynb  
  ```
