@@ -29,3 +29,8 @@ The folder should have the following structure:
    ├── val_sanity.npy
    └── ME455_TP_2024_Student.ipynb  
  ```
+
+## Model names
+Semantic Segmentation: `net_SS`
+Depth Estimation: ``
+Object Detection: `model`
